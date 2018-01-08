@@ -39,5 +39,7 @@ module ServiceworkerRailsSandbox
     # Custom settings
     config.settings = ActiveSupport::OrderedOptions.new
     config.settings.google_analytics_tracking_id = 'UA-xxxxxxxx-x'
+    
+    config.assets.initialize_on_precompile = false
   end
 end

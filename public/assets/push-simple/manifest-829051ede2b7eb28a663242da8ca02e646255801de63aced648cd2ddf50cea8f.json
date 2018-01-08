@@ -1,0 +1,11 @@
+{
+  "name": "Push Simple - Service Worker Rails Sandbox",
+  "short_name": "push-simple",
+  "start_url": "./push-simple/",
+  "display": "standalone",
+   "icons": [{
+     "src": "/assets/images/circle-turtle-192x192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+   }]
+}

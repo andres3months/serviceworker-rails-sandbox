@@ -1,0 +1,11 @@
+{
+  "name": "Push React - Service Worker Rails Sandbox",
+  "short_name": "push-react",
+  "start_url": "./push-react/",
+  "display": "standalone",
+   "icons": [{
+     "src": "/assets/images/circle-turtle-192x192.png",
+     "sizes": "192x192",
+     "type": "image/png"
+  }]
+}
